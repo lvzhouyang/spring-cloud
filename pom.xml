@@ -19,6 +19,7 @@
         <module>CompanyService</module>
         <module>Employee-Service</module>
         <module>Product-Service</module>
+        <module>spring-cloud-dashboard</module>
     </modules>
     <packaging>pom</packaging>
 

@@ -11,7 +11,7 @@ eureka:
       defaultZone: http://localhost:1111/eureka/
 
 turbine:
-  appConfig: ribbon-consumer,ribbon-consumer,compute-service
+  appConfig: ribbon-consumer,ribbon-consumer,compute-service,company-service,product-service,employee-service
   clusterNameExpression: "'default'"
 spring:
   application:
