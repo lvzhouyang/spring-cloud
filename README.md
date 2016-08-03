@@ -6,3 +6,4 @@ Model
 [eureka-feign]:使用feign＋eureka+hystrix调用远程服务
 [eureka-ribbon]:使用ribbon＋eureka+hystrix调用远程服务
 [eureka-server]:eureka注册服务
+[turbine]:hystrix数据整合
